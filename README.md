@@ -1,2 +1,2 @@
 # My_playground
-Some Insane & Diabolical stuff :)
+Some Insane & non-logic stuff :)
