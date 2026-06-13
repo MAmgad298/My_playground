@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Mohamed Gamea\source\repos\COIVD_Detection_Investigation\Main.cpp(31,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mohamed Gamea\source\repos\COIVD_Detection_Investigation\Main.cpp(31,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  COIVD_Detection_Investigation.vcxproj -> C:\Users\Mohamed Gamea\source\repos\COIVD_Detection_Investigation\x64\Debug\COIVD_Detection_Investigation.exe
